@@ -1,0 +1,54 @@
+.w-100 {
+  width: 100%
+}
+
+.vh-100 {
+  height: 100vh;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.ul-li-none {
+  list-style: none;
+}
+
+.txt-d-none {
+  text-decoration: none;
+}
+
+.border-none,
+nav a:hover {
+  border-width: 0;
+}
+
+a {
+  transition: all ease 0.3s;
+}
+
+nav a:hover {
+  color: #fff;
+  text-shadow: 0 0 4px #000;
+}
+
+.txt-center {
+  text-align: center;
+}
+
+.block-center {
+  margin: 0 auto;
+}
+
+.li-hover {
+  transition: all ease .3s;
+  cursor: pointer;
+}
+
+li.li-hover:hover {
+  background-color: #ddd;
+}
